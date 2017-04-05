@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!-- saved from url=(0097)https://storage.googleapis.com/supplemental_media/udacityu/2730818600/bootstrap-prestructure.html -->
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="bootstrap-prestructure_files/bootstrap.css">
+</head>
+  <body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6"><img src="bootstrap-prestructure_files/100x100.png"></div>
+      <div class="col-md-6 text-right text-uppercase">
+        <h1>Jane Doette</h1>
+        <h3>Front-end Ninja</h3>
+      </div>
+    </div>
+    <div class="row">
+  <div class="col-md-12">
+  </div>
+      <img class="img-responsive" src="bootstrap-prestructure_files/cute-puppy-quotes-sayings-wallpaper-cats-hd-1280x1024px-pupp.jpg">
+    </div>
+    <div class="row">
+  <div class="col-md-12"></div>
+      <h2>Featured Work</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <img class="img-responsive" src="bootstrap-prestructure_files/tjhOg6C.jpg">
+        <h3>Appify</h3>
+        <p><a href="http://github.com/">Link to project</a></p>
+      </div>
+      <div class="col-md-4">
+        <img class="img-responsive" src="bootstrap-prestructure_files/fa6868ff961981911b9b219c4ef96b25.jpg">
+        <h3>Appify</h3>
+        <p><a href="http://github.com/">Link to project</a></p>
+      </div>
+  <div class="col-md-4">
+        <img class="img-responsive" src="bootstrap-prestructure_files/download-cute-puppy-wallpaper-full-hd-wallpapers-1920x1080px.jpg">
+        <h3>Appify</h3>
+        <p><a href="http://github.com/">Link to project</a></p>
+      </div>
+    </div>
+    
+
+  
+
+
+</div></body></html>
