@@ -1,8 +1,7 @@
 
-                                                          BUILD A PORTFOLIO
+  ###BUILD A PORTFOLIO
 
 This Repo consists of solution for "Build a Portfolio"  Project from Udacity's Full Stack Development Nanodegree.
-
 
 This Project consists of a Responsive Web page.Responsive here means compatible with every size devices and on every browser.
 
@@ -18,4 +17,4 @@ Instrucitons to Run Project:
   .Link Bootstrap css file with bootstrap prestructured html file.
   .Open the html file on any web browser.
   .Right click and inspect elements.
-.Make changes that are required in devloper tools.
+  .Make changes that are required in devloper tools.
