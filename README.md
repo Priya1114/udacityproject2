@@ -1,9 +1,11 @@
-# udacityproject2
-THIS REPO CONSISTS OF ONE OF UDACITY FSWD COURSE:
 
-                                                          #BUILD A PORTFOLIO#
+                                                          BUILD A PORTFOLIO
+
+This Repo consists of solution for "Build a Portfolio"  Project from Udacity's Full Stack Development Nanodegree.
+
 
 This Project consists of a Responsive Web page.Responsive here means compatible with every size devices and on every browser.
+Instrucitons to Run Project:
 
 #DOWNLOADS:
   
