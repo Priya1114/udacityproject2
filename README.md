@@ -6,6 +6,8 @@ This Repo consists of solution for "Build a Portfolio"  Project from Udacity's F
 This Project consists of a Responsive Web page.Responsive here means compatible with every size devices and on every browser.
 
 Instrucitons to Run Project:
+  .Clone Or Download the Repository.
+  .Unzip the files.
 
 #DOWNLOADS:
   
